@@ -1,0 +1,11 @@
+.chart {
+  flex: 5;
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  color: gray;
+}
+.chart .title {
+  margin: 20px;
+}
+.chart .chartGrid {
+  stroke: rgb(241, 238, 238);
+}/*# sourceMappingURL=chart.css.map */
